@@ -1,6 +1,6 @@
 ## Welcome to my Github repository!
 
-My name is Jona 👋
+Hi, my name is Jona 👋
 
 I am a mathematics and data science undergraduate student from Northeastern University graduating in April of 2026
 
