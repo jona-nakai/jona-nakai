@@ -1,4 +1,4 @@
-## Welcome to my Github repository!
+## Welcome to my Github!
 
 Hi, my name is Jona 👋
 
